@@ -13,7 +13,7 @@
 
 </p>
 <p align='center'>
-<a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=dark" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=prussian" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
 
 <h2 align="center">Technology Stack:</h2>
 <p align='center'>
@@ -54,7 +54,7 @@
   
   [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&layout=compact&theme=dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
   
-  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=brown)](https://git.io/akshay2211&hide_border=true)
+  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
 
 
 <br/>
