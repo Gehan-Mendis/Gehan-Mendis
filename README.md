@@ -57,7 +57,14 @@
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=Gehan-Mendis&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-   <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Gehan-Mendis&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Gehan-Mendis&theme=prussian&hide_border=true" />
+</p>
+<br>
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gehan-Mendis&repo=github-readme-stats&theme=prussian&hide_border=true" />
 </p>
 <br>
 
