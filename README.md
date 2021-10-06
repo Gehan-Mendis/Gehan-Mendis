@@ -52,6 +52,8 @@
 
 <br/>
   
+  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&layout=compact&theme=dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
+  
   [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
 
 
