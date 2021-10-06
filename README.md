@@ -16,6 +16,8 @@
 <a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=prussian" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
   
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
+  
+## :floppy_disk: TECH STACK
 
 <h2 align="center">Technology Stack:</h2>
 <p align='center'>
@@ -68,3 +70,7 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+[website]: http://www.katiebarriere.com
+[e-mail]: kt@katiebarriere.com
+[twitter]: https://twitter.com/katiebarriere
