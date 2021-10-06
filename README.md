@@ -47,6 +47,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 <br/>
+  
+### :zap: GitHub Stats
+  
+[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis)](https://github.com/Gehan-Mendis/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
 
