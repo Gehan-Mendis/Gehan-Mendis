@@ -2,6 +2,7 @@
 
 ## I'm a Full Stack Developer, Technology Entusiast, Horticulturist, Historian and Scuba Diver!!!
 
+### Connect with me
 <p align='center'>
 <a href="https://twitter.com/Gehan_Mendis"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gehan-m-28b48a11/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -14,7 +15,7 @@
 <p align='center'>
 <a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=dark" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Technology Stack:</h2>
 <p align='center'>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
@@ -47,6 +48,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 <br/>
+  
+[![Gehan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username=Gehan-Mendis)](https://github.com/Gehan-Mendis/github-readme-stats)
+[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
+](https://github.com/Gehan-Mendis/github-readme-stats)
   
 ### :zap: GitHub Stats
   
