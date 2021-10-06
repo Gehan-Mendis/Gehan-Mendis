@@ -50,11 +50,14 @@
   
 ### :zap: GitHub Stats
   
-[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
-](https://github.com/Gehan-Mendis/github-readme-stats)
-  
-[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
-](https://github.com/Gehan-Mendis/github-readme-stats)
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark"/></td>
+    </tr>   
+  </table>
+</center>
 
 ### Show some ❤️ by starring some of the repositories!
 
