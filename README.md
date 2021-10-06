@@ -1,9 +1,4 @@
-
-![](https://komarev.com/ghpvc/?username=Gehan-Mendis)
-
-<h2 align="center">My name is Gehan Mendis 👋</h2>
-
-### Hi there, I'm Gehan Mendis👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
+</h2> ### Hi there, I'm Gehan Mendis👋</h2> <div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=blue)</div>
 
 ## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Historian and Scuba Diver!!!
 
@@ -12,6 +7,7 @@
 <a href="https://www.linkedin.com/in/gehan-m-28b48a11/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://itblackbelt.wordpress.com/"><img height="40" src="icons/wordpress.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/whiskey_tango_foxtrot_team//"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@Gehan"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@Gehan"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
 
 </p>
