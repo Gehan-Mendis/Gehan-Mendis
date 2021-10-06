@@ -63,7 +63,7 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=html&layout=compact&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=html&layout=compact&theme=prussian&show_icons=true&count_private=true&hide_border=true"/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gehan-Mendis&repo=github-readme-stats&hide=html&theme=prussian&hide_border=true" />
 </p>
 <br>
@@ -74,7 +74,9 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=html&layout=compact&theme=prussian"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=html&count_private=true&show_icons=true&layout=compact&theme=prussian" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=html&count_private=true&show_icons=true&layout=compact&theme=prussian"/></td>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Gehan-Mendis&show_icons=true&count_private=true&hide=html&hide_border=true&layout=compact&theme=prussian"/></td>
+       <td><img width="400px" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Gehan-Mendis&show_icons=true&count_private=true&hide=html&hide_border=true&layout=compact&theme=prussian/></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gehan-Mendis&repo=github-readme-stats&hide=html&layout=compact&theme=prussian" /></td>
     </tr>   
   </table>
