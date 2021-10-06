@@ -48,9 +48,6 @@
 
 <br/>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gehan-Mendis&repo=github-readme-stats)](https://github.com/Gehan-Mendis/github-readme-stats)
-
-  
 ### :zap: GitHub Stats
   
 <center>
@@ -58,6 +55,7 @@
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=html&layout=compact&theme=buefy"/></td>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=html&count_private=true&show_icons=true&layout=compact&theme=buefy" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gehan-Mendis&repo=github-readme-stats" /></td>
     </tr>   
   </table>
 </center>
