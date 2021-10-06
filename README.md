@@ -53,7 +53,7 @@
 [![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 ](https://github.com/Gehan-Mendis/github-readme-stats)
   
-[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendishide=contribs,prs&count_private=true&show_icons=true&theme=dark)
+[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 ](https://github.com/Gehan-Mendis/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
