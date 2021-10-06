@@ -64,7 +64,7 @@
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=html&layout=compact&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gehan-Mendis&repo=github-readme-stats&hide=html&layout=compact&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gehan-Mendis&repo=github-readme-stats&hide=html&theme=prussian&hide_border=true" />
 </p>
 <br>
 
