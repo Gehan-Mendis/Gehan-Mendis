@@ -3,6 +3,10 @@
 
 <h2 align="center">My name is Gehan Mendis 👋</h2>
 
+### Hi there, I'm Gehan Mendis👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
+
+## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Historian and Scuba Diver!!!
+
 <p align='center'>
 <a href="https://twitter.com/Gehan_Mendis"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gehan-m-28b48a11/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
