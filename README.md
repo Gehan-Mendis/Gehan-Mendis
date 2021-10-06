@@ -50,7 +50,7 @@
 <br/>
   
 [![Gehan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username=Gehan-Mendis)](https://github.com/Gehan-Mendis/github-readme-stats)
-[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
+[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 ](https://github.com/Gehan-Mendis/github-readme-stats)
   
 ### :zap: GitHub Stats
