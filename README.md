@@ -52,6 +52,9 @@
   
 [![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 ](https://github.com/Gehan-Mendis/github-readme-stats)
+  
+  [![Gehan's GitHub stats](https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&hide=html&layout=compact&theme=buefy)
+](https://github.com/Gehan-Mendis/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
 
