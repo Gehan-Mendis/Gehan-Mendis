@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/gehan-m-28b48a11/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://itblackbelt.wordpress.com/"><img height="40" src="icons/wordpress.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/whiskey_tango_foxtrot_team//"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@Gehan"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
 
 </p>
 <p align='center'>
