@@ -50,7 +50,8 @@
   
 ### :zap: GitHub Stats
   
-[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis)](https://github.com/Gehan-Mendis/github-readme-stats)
+[![Gehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gehan-Mendis&hide=contribs,prs)
+](https://github.com/Gehan-Mendis/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
 
