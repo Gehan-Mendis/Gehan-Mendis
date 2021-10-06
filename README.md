@@ -14,6 +14,8 @@
 </p>
 <p align='center'>
 <a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=prussian" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
+  
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
 
 <h2 align="center">Technology Stack:</h2>
 <p align='center'>
@@ -51,16 +53,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 <br/>
-  
-  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&layout=compact&theme=dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
-  
-  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
-
 
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=Gehan-Mendis&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Gehan-Mendis&theme=prussian&hide_border=true" />
+   <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Gehan-Mendis&theme=prussian&hide_border=true" />
 </p>
 <br>
 
