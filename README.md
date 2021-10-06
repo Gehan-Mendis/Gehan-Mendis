@@ -1,4 +1,4 @@
-### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis)</div>
+### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
 
 ## I'm a Full Stack Developer, Technology Entusiast, Horticulturist, Historian and Scuba Diver!!!
 
