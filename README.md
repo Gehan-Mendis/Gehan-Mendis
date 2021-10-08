@@ -53,7 +53,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nginx.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/consul-enterprise.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
@@ -87,9 +87,6 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/centos-1.svg"></code>
-
-
-
 
 <br/>
 <br/>
