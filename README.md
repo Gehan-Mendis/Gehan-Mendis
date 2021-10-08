@@ -36,15 +36,16 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/rest-63.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
 <code><img height="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/kafka.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/rest-63.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -61,15 +62,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/subversion.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jamstack.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
+
 
 
 <br/>
