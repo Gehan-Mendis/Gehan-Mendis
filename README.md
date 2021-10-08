@@ -9,7 +9,7 @@
 <a href="https://itblackbelt.wordpress.com/"><img height="40" src="icons/wordpress.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/whiskey_tango_foxtrot_team/"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@Gehan"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@gehan.mendis/about"><img height="40" src="icons/mediumgreen.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@gehan.mendis/about"><img height="40" src="https://cdn.worldvectorlogo.com/logos/medium-1.svg"></a>&nbsp;&nbsp;
 
 </p>
 <p align='center'>
@@ -37,6 +37,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
