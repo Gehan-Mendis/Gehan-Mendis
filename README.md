@@ -55,6 +55,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/subversion.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/jamstack.svg"></code>
