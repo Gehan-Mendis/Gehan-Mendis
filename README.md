@@ -20,11 +20,11 @@
 ## :floppy_disk: TECH STACK
 
 <p align='center'>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/java-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/spring-14.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jasmine-2.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -73,6 +73,8 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jamstack.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jasmine-2.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
