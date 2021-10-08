@@ -80,7 +80,7 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jasmine-2.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
