@@ -72,6 +72,8 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/centos-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/centos-1.svg"></code>
 
 
 
