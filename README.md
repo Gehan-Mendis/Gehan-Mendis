@@ -53,6 +53,13 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/nginx.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/consul-enterprise.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-elastic-load-balancing.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-beats.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
@@ -73,6 +80,7 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jasmine-2.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
