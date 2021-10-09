@@ -17,6 +17,8 @@
   
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gehan-Mendis&theme=algolia)](https://github.com/Gehan-Mendis/github-profile-trophy)
+  
 ## :floppy_disk: TECH STACK
 
 <p align='center'>
