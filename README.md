@@ -17,8 +17,6 @@
   
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gehan-Mendis&theme=algolia)](https://github.com/Gehan-Mendis/github-profile-trophy)
-  
 ## :floppy_disk: TECH STACK
 
 <p align='center'>
@@ -103,6 +101,8 @@
   <img width="33.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=html&layout=compact&theme=prussian&show_icons=true&count_private=true&hide_border=true"/>
 </p>
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gehan-Mendis&theme=algolia)](https://github.com/Gehan-Mendis/github-profile-trophy)
 
 ### Show some ❤️ by starring some of the repositories!
 
