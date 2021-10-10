@@ -13,6 +13,9 @@
   <a href="https://hashnode.com/@Gehan">
     <img src="https://img.shields.io/static/v1?label=Blog&message=Hashnode&color=306844&style=for-the-badge" />
   </a>
+   <a href="https://itblackbelt.wordpress.com/">
+    <img src="https://img.shields.io/static/v1?label=Blog&message=Wordpress&color=306844&style=for-the-badge" />
+  </a>
 </p>
 
 <p align='center'>
