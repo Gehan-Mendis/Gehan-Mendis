@@ -50,16 +50,13 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"></code>
 <code><img height="40" src="https://i.ibb.co/6n6h6Tm/icon.png"></code>
 <code><img height="40" src="https://i.ibb.co/Xyzdxdb/download.png"></code>
-<code><img height="40" src="https://i.ibb.co/HnXG4Yk/download.png"></code>
-<code><img height="40" src="https://i.ibb.co/GPJ30gQ/download.jpg"></code>
 <code><img height="40" src="https://i.ibb.co/gjr89vr/images-2.png"></code>  
-<code><img height="40" src=" https://i.ibb.co/5ByVsH1/5847fb12cef1014c0b5e48d1.png"></code>  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nginx.svg"></code>
+<code><img height="20" src="https://i.ibb.co/GV2bLSW/images.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/consul-enterprise.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
@@ -89,13 +86,13 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jasmine-2.svg"></code>
 <code><img height="40" src="https://i.ibb.co/jhPn3yd/download-4.png"></code>
+<code><img height="40" src="https://i.ibb.co/HnXG4Yk/download.png"></code>
 <code><img height="40" src="https://i.ibb.co/7JRqFG3/4y634TJm.jpg"></code>
 <code><img height="40" src="https://i.ibb.co/Vg9wNfL/sonarqube-stack-220x234.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/centos-1.svg"></code>
-<code><img height="40" src=" https://i.ibb.co/5ByVsH1/5847fb12cef1014c0b5e48d1.png"></code> 
 
 <br/>
 <br/>
