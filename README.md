@@ -48,10 +48,9 @@
 <code><img height="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/kafka.svg"></code>
 <code><img height="40" src="https://i.ibb.co/6n6h6Tm/icon.png"></code>
+<code><img height="40" src="https://i.ibb.co/Xyzdxdb/download.png"></code>
 <code><img height="40" src="https://i.ibb.co/HnXG4Yk/download.png"></code>
-<code><img height="40" src="https://i.bb.co/5ByVsH1/5847fb12cef1014c0b5e48d1.png"></code>
 <code><img height="40" src="https://i.ibb.co/GPJ30gQ/download.jpg"></code>
 <code><img height="40" src="https://i.ibb.co/gjr89vr/images-2.png"></code>  
 
