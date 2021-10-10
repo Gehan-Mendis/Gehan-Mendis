@@ -83,9 +83,9 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jasmine-2.svg"></code>
-<code><img height="20" src="https://i.ibb.co/jhPn3yd/download-4.png"></code>
-<code><img height="20" src="https://i.ibb.co/7JRqFG3/4y634TJm.jpg"></code>
-<code><img height="20" src="https://i.ibb.co/Vg9wNfL/sonarqube-stack-220x234.png"></code>
+<code><img height="40" src="https://i.ibb.co/jhPn3yd/download-4.png"></code>
+<code><img height="40" src="https://i.ibb.co/7JRqFG3/4y634TJm.jpg"></code>
+<code><img height="40" src="https://i.ibb.co/Vg9wNfL/sonarqube-stack-220x234.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
