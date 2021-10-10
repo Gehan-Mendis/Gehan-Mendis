@@ -25,6 +25,8 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://i.ibb.co/0GXfbf7/1200px-Embarcadero-Delphi-10-4-Sydney-Product-Logo-and-Icon-svg.png"></code>
+<code><img height="40" src="https://i.ibb.co/1JYQYLM/6e5c910d970804a9c4b67a40eb3e0a0c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://i.ibb.co/RSzWPb4/584807e4cef1014c0b5e48df.png"></code>
