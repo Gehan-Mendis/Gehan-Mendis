@@ -2,7 +2,19 @@
 
 ## I'm a Full Stack Developer, Technology Entusiast, Horticulturist, Historian and Scuba Diver!!!
 
-### Connect with me
+## Connect with me
+<p align='center'>
+  <a href="https://twitter.com/Gehan_Mendis">
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=Gehan_Mendis&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gehan-m-28b48a11/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Gehan%20Mendis&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@Gehan">
+    <img src="https://img.shields.io/static/v1?label=Blog&message=Hashnode&color=306844&style=for-the-badge" />
+  </a>
+</p>
+
 <p align='center'>
 <a href="https://twitter.com/Gehan_Mendis"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gehan-m-28b48a11/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
