@@ -40,10 +40,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
-<code><img height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
+<code><img height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/rest-63.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" src="https://i.ibb.co/PzfWyCL/kisspng-amazon-com-logo-amazon-web-services-amazon-elastic-bump-digitech-server-less-api-aws-15-5b66.png"></code>
