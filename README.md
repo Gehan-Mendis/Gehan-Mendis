@@ -73,7 +73,7 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/grafana.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://i.ibb.co/3vQBwH3/download-5.png"></code>
+<code><img height="40" src="https://i.ibb.co/C89YyzW/128-1280330-github-logo-png-github-icon-blue-png-transparent.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/subversion.svg"></code>
