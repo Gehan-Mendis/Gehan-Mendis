@@ -73,7 +73,7 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/grafana.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://i.ibb.co/QKGGP3c/download-6.png"></code>
+<code><img height="40" src="https://i.ibb.co/C89YyzW/128-1280330-github-logo-png-github-icon-blue-png-transparent.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/subversion.svg"></code>
@@ -83,7 +83,9 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jasmine-2.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg"></code>
+<code><img height="20" src="https://i.ibb.co/jhPn3yd/download-4.png"></code>
+<code><img height="20" src="https://i.ibb.co/7JRqFG3/4y634TJm.jpg"></code>
+<code><img height="20" src="https://i.ibb.co/Vg9wNfL/sonarqube-stack-220x234.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
