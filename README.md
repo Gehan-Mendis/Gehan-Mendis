@@ -16,15 +16,10 @@
    <a href="https://itblackbelt.wordpress.com/">
     <img src="https://img.shields.io/static/v1?label=Blog&message=Wordpress&color=306844&style=for-the-badge" />
   </a>
+  <a href="https://medium.com/@gehan.mendis/about">
+    <img src="https://img.shields.io/static/v1?label=Blog&message=Medium&color=306844&style=for-the-badge" />
+  </a>
 </p>
-
-<p align='center'>
-<a href="https://twitter.com/Gehan_Mendis"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gehan-m-28b48a11/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://itblackbelt.wordpress.com/"><img height="40" src="icons/wordpress.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/whiskey_tango_foxtrot_team/"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@Gehan"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@gehan.mendis/about"><img height="40" src="https://cdn.worldvectorlogo.com/logos/medium-1.svg"></a>&nbsp;&nbsp;
 
 </p>
 <p align='center'>
