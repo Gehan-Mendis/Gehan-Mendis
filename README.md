@@ -120,7 +120,7 @@
 <br/>
   
 ## Check out my stats
-<p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
+<p>These are my most used languages within my Repos on GitHub </p>
   
 <br/>
 <p align="left">
