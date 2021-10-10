@@ -16,9 +16,6 @@
    <a href="https://itblackbelt.wordpress.com/">
     <img src="https://img.shields.io/static/v1?label=Blog&message=Wordpress&color=306844&style=for-the-badge" />
   </a>
-  <a href="https://medium.com/@gehan.mendis/about">
-    <img src="https://img.shields.io/static/v1?label=Blog&message=Medium&color=306844&style=for-the-badge" />
-  </a>
 </p>
 
 </p>
