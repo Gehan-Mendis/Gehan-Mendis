@@ -116,13 +116,11 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/centos-1.svg"></code>
 
-
-
-
 <br/>
 <br/>
   
-### :zap: GitHub Stats
+## Check out my stats
+<p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
   
 <br/>
 <p align="left">
