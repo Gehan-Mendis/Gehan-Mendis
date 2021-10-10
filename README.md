@@ -44,7 +44,7 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/rest-63.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg"></code>
+<code><img height="20" src="https://i.ibb.co/H7RDN48/images-2.png"></code>
 <code><img height="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"></code>
