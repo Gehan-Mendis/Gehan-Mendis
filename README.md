@@ -1,5 +1,5 @@
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align = 'right'>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)</div>
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle)
