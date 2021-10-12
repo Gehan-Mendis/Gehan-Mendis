@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img width="4000" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&font=Gabrielle"/>
 </p>
 
