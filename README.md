@@ -4,8 +4,8 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle)
 
-<p align="left">
-  <img width="33.0%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle"/>
 </p>
 
 
