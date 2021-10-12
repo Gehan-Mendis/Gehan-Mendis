@@ -1,12 +1,12 @@
 
 
 <p align="center">
-  <img width="130%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal"/>
+  <img width="150%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal"/>
 </p>
 
 
 <p align="center">
-  <img width="130%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle"/>
+  <img width="150%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle"/>
 </p>
 
 
