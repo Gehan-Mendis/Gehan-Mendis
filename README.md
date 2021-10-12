@@ -1,11 +1,12 @@
 
-<div align = 'right'>![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal)</div>
-
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle)
 
 <p align="center">
-  <img width="100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle"/>
+  <img width="130%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal"/>
+</p>
+
+
+<p align="center">
+  <img width="130%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle"/>
 </p>
 
 
