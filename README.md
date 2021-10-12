@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="3000" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&font=Gabrielle"/>
+  <img width="4000" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&font=Gabrielle"/>
 </p>
 
 
