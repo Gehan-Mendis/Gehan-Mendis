@@ -4,6 +4,10 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle)
 
+<p align="left">
+  <img width="33.0%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle"/>
+</p>
+
 
 ### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
 
