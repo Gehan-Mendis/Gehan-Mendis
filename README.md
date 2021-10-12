@@ -1,5 +1,5 @@
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
 
