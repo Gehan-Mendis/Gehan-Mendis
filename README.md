@@ -128,8 +128,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gehan-Mendis&theme=algolia)](https://github.com/Gehan-Mendis/github-profile-trophy)
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
