@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="150%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=compact&font=Gabrielle"/>
+  <img width="200%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=compact&font=Gabrielle"/>
 </p>
 
 
