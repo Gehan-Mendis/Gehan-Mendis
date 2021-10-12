@@ -1,9 +1,9 @@
-<p align='center'>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
-<p align='center'>
+
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=Gabrielle)
-</p>
+
 
 ### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
 
