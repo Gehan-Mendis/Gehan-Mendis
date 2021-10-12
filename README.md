@@ -1,11 +1,4 @@
-
-
-<p align="center">
-  <img width="150%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?type=horizontal"/>
-</p>
-
-
-<p align="center">
+<p align="right">
   <img width="200%" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&font=Gabrielle"/>
 </p>
 
