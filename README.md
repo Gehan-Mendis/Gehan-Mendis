@@ -1,5 +1,5 @@
 <p align="center">
-  <img width =2000 src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&font=Gabrielle"/>
+  <img width =100% src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&font=Gabrielle"/>
 </p>
 
 ### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
