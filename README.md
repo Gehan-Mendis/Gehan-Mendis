@@ -1,5 +1,7 @@
 [![MasterHead](your image link)](your GitHub link)
 
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif">
+
 ### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
 
 ## I'm a Full Stack Developer, Technology Entusiast, Horticulturist, Historian and Scuba Diver!!!
