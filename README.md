@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Gehan_Mendis">
     <img src="https://img.shields.io/static/v1?label=Twitter&message=Gehan_Mendis&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gehan-m-28b48a11/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Gehan%20Mendis&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hashnode.com/@Gehan">
