@@ -1,9 +1,7 @@
-<p align="right">
-  <img width =100% align"right" src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&font=Gabrielle"/>
-</p>
 
-<!--
-### Hi there 👋
+### Hi there I'm Gehan👋
+
+##### I'm a Full Stack Developer, Technology Enthusiast.
 
 Here are some ideas to get you started:
 
@@ -15,11 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-### Hi there, I'm Gehan<div align = 'right'>![](https://komarev.com/ghpvc/?username=Gehan-Mendis&color=yellow)</div>
-
-## I'm a Full Stack Developer, Technology Entusiast, Horticulturist, Historian and Scuba Diver!!!
 
 ## Connect with me
 <p align='center'>
@@ -40,8 +33,6 @@ Here are some ideas to get you started:
 </p>
 <p align='center'>
 <a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=prussian" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
-  
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Gehan-Mendis&theme=react-dark&hide_border=true&color=)](https://git.io/akshay2211&hide_border=true)
   
 ## :floppy_disk: TECH STACK
 
@@ -135,18 +126,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
 
-
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 <br/>
   
@@ -159,7 +138,7 @@ Here are some ideas to get you started:
   <img width="33.0%" src="http://github-readme-streak-stats.herokuapp.com?user=Gehan-Mendis&theme=prussian&hide_border=true" />
   <img width="33.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehan-Mendis&hide=html&layout=compact&theme=prussian&show_icons=true&count_private=true&hide_border=true"/>
 </p>
-<br>
+<be>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gehan-Mendis&theme=algolia)](https://github.com/Gehan-Mendis/github-profile-trophy)
 
