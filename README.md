@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"></code>
@@ -94,7 +93,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://i.ibb.co/3MWJ5qD/images-4.png"></code>
 <code><img height="40" src="https://i.ibb.co/mGQMgHH/kisspng-apache-maven-apache-ant-gradle-apache-http-server-apache-maven-5b194e5744c5e8-57727326152838.png"></code>
 <code><img height="40" src="https://i.ibb.co/0mvdcH8/kisspng-apache-ant-software-build-apache-http-server-build-5b2abce3875d16-3634597915295275235545.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-elastic-load-balancing.svg"></code>
@@ -102,11 +100,15 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/couchbase-1.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/prometheus.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/grafana.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -132,16 +134,8 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-</code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+
+
 
 
 
