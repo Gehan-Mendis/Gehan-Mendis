@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ## :floppy_disk: TECH STACK
 
 <p align='center'>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/java-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/spring-14.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code> 
+<code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -126,28 +126,11 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg/></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/></code>  
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code> 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code> 
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"/></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/></code>
 
 <br/>
 <br/>
