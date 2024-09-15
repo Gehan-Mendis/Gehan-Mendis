@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></a></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"/></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
@@ -126,8 +127,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
 
-<code><img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg"/></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"/></code> 
+
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code> 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg/></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/></code>  
@@ -146,20 +146,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"/></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/></code> 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></code>
-<code><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"/></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"/></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/></code>
 
