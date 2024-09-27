@@ -55,9 +55,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://i.ibb.co/0mvdcH8/kisspng-apache-ant-software-build-apache-http-server-build-5b2abce3875d16-3634597915295275235545.png"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/couchbase-1.svg"></code>
+<code><img height="40" 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
@@ -67,7 +65,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-elastic-load-balancing.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-beats.svg"></code>
-<code><img height="40" src="https://i.ibb.co/PzfWyCL/kisspng-amazon-com-logo-amazon-web-services-amazon-elastic-bump-digitech-server-less-api-aws-15-5b66.png"></code> 
 
 <br/>
 <br/>
