@@ -38,33 +38,6 @@ Here are some ideas to get you started:
 
 <p align='center'>
 
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/rest-63.svg"></code>
-
-<code><img height="40" src="https://i.ibb.co/H7RDN48/images-2.png"></code>
-<code><img height="40" src="https://i.ibb.co/6n6h6Tm/icon.png"></code>
-<code><img height="40" src="https://i.ibb.co/Xyzdxdb/download.png"></code>
-<code><img height="40" src="https://i.ibb.co/gjr89vr/images-2.png"></code>  
-<code><img height="40" src="https://i.ibb.co/GV2bLSW/images.png"></code>
-<code><img height="40" src="https://i.ibb.co/vh3bJWt/download-2.png"></code>
-<code><img height="40" src="https://i.ibb.co/3MWJ5qD/images-4.png"></code>
-<code><img height="40" src="https://i.ibb.co/jhPn3yd/download-4.png"></code>
-<code><img height="40" src="https://i.ibb.co/HnXG4Yk/download.png"></code>
-<code><img height="40" src="https://i.ibb.co/7JRqFG3/4y634TJm.jpg"></code>
-
-<code><img height="40" src="https://i.ibb.co/0mvdcH8/kisspng-apache-ant-software-build-apache-http-server-build-5b2abce3875d16-3634597915295275235545.png"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
-
-<code><img height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-elastic-load-balancing.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-beats.svg"></code>
 
 <br/>
 <br/>
