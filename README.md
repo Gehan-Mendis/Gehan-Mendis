@@ -34,14 +34,6 @@ Here are some ideas to get you started:
 <p align='center'>
 <a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=prussian" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
   
-## :floppy_disk: TECH STACK
-
-<p align='center'>
-
-
-<br/>
-<br/>
-  
 ## Check out my stats
 <p>These are my most used languages within my Repos on GitHub </p>
   
