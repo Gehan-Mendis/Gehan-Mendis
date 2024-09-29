@@ -1,10 +1,7 @@
+![Header](./github-header-image-2.png)
 
-### Hi there I'm Gehan👋
-
-##### I'm a Full Stack Developer, Technology Enthusiast.
-
-Here are some ideas to get you started:
-
+- 👋 Hi, I’m @TGAMendis
+- 👀 I’m interested in ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
